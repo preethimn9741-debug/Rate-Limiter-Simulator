@@ -45,12 +45,15 @@ rate_limiter/   (project root)
 Check installation:
 
    python --version
+   
    pip --version
 
 2️. Install Dependencies
+
    pip install -r requirements.txt
    
 3. Running the Application
+   
    python app.py
 
 ## Expected output:
