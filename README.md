@@ -53,7 +53,6 @@ Check installation:
 3. Running the Application
    python app.py
 
-
 ## Expected output:
 
 Running on http://127.0.0.1:5000
