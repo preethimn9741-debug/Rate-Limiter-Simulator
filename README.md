@@ -51,8 +51,8 @@ Check installation:
 2️. Install Dependencies
 
    pip install -r requirements.txt
-
-3. Running the Application
+   
+   Running the Application
    
    python app.py
    
